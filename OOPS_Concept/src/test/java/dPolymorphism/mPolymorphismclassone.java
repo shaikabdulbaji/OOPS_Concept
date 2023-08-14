@@ -2,7 +2,7 @@ package dPolymorphism;
 
 public class mPolymorphismclassone {
 	
-	// Overloading - no.of parameters, type of parameters and order of parametrs  (or) same method name with different parameters
+	// Overloading - no.of parameters, type of parameters and order of parametrs (or) same method name with different parameters
 /*	
 	public void add(int a, int b)     // no.of parameters
 	{

@@ -1,0 +1,23 @@
+package bImplementation;
+
+public class User {
+
+	public static void main(String[] args) {
+
+		SampleAC lenovo = new Lenovo();
+		lenovo.copy();
+		lenovo.paste();
+		
+	}
+	
+	/*
+	 * Abstraction is a process of hiding the implementation details and showing 
+	   only functionality to the user. 
+	   
+	 * First we put the object aslike below 
+	   Lenovo lenovo = new Lenovo();
+	   and click on copy and press "fn+f3" then it will redirect to implementation,
+	   then it was not achiving Abstraction.
+	 */
+
+}

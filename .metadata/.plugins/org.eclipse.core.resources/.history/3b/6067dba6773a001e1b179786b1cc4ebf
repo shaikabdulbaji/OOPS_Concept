@@ -1,0 +1,5 @@
+package bImplementation;
+
+public abstract class SampleAC implements Laptop{
+
+}

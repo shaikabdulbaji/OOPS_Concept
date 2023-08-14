@@ -1,0 +1,8 @@
+package Example;
+
+public class Teacher {
+	
+	Student s =  new Student();
+	s.
+
+}

@@ -1,0 +1,15 @@
+package bImplementation;
+
+public  class Lenovo implements Laptop{
+	
+	public void copy()
+	{
+		System.out.println("Lenovo Copy Code");
+	}
+
+	public void paste()
+	{
+		System.out.println("Lenovo Paste Code");
+	}
+
+}

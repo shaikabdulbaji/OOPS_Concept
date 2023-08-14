@@ -1,0 +1,28 @@
+package bImplementation;
+
+public class fExtendedLenovo extends cLenovo{
+	
+	
+	public void copy()
+	{
+		System.out.println("Extended Lenovo Copy");
+	}
+	
+	/*
+		@Override
+		public void copy()
+		{
+			System.out.println("Extended Lenovo Copy");
+		}
+	
+	* Some times you we see this @Override annotation, without using annotation
+	  also we achieve method overriding, but why we are using this @Override annotation.
+	  
+	    @Override
+		public void copy(String s)
+		{
+			System.out.println("Extended Lenovo Copy");
+		} 
+	*/
+
+}

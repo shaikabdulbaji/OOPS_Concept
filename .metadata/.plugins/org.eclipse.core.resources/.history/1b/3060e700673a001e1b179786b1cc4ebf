@@ -1,0 +1,9 @@
+package Exxample;
+
+public class Student {
+	
+	private int rollNumber;
+	private String Name;
+	private boolean isAttendance;
+
+}

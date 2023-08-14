@@ -1,0 +1,27 @@
+package bImplementation;
+
+public class Caluculations {
+	
+	public void add(int a, int b)
+	{
+		
+	}
+	
+	public void add(int a, int b, int c)
+	{
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Caluculations cal = new Caluculations();
+		cal.add(2, 3);      //If we want two parameters choose this one.
+		cal.add(2, 3, 4);	//If we want three parameters choose this one.
+	}
+	
+	/*
+	 * Method overloading is same method name but different parameters(type of parameters
+	   (or) no.of parameters (or) order of parameters).
+	 */
+
+}

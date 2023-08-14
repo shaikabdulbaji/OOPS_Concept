@@ -1,0 +1,13 @@
+package bImplementation;
+
+public class eUser {
+
+	public static void main(String[] args) {
+
+		Laptop lenovo = new Lenovo();
+		lenovo.copy();
+		lenovo.paste();
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+package bImplementation;
+
+public class cLenovo extends SampleAC{
+	
+	
+	public void cut() {		
+		System.out.println("Cut Code");
+	}
+
+	
+	public void keyboard() {
+		System.out.println("Keybord Code");
+	}
+
+}

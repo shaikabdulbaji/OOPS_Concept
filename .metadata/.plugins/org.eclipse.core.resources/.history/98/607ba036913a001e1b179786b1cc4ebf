@@ -1,0 +1,18 @@
+package bImplementation;
+
+public class fExtendedLenovo extends cLenovo{
+	
+	
+	public void copy()
+	{
+		System.out.println("Extended Lenovo Copy");
+	}
+	
+	/*
+	public void copy()
+	{
+		System.out.println("Extended Lenovo Copy");
+	}
+	*/
+
+}

@@ -1,0 +1,7 @@
+package bImplementation;
+
+public interface Laptop {
+	
+	
+
+}

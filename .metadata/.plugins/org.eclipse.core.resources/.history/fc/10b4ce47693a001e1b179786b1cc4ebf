@@ -1,0 +1,32 @@
+package Example;
+
+public class Student {
+	
+	private int rollNumber;
+	private String Name;
+	private boolean isAttendance;
+	
+	
+	public int getRollNumber() {
+		System.out.println("Teacher get RollNumber");
+		return rollNumber;
+	}
+	public void setRollNumber(int rollNumber) {
+		this.rollNumber = rollNumber;
+	}
+	public String getName() {
+		System.out.println("Teacher get Name");
+		return Name;
+	}
+	public void setName(String name) {
+		Name = name;
+	}
+	public boolean getisAttendance() {
+		System.out.println("Teacher get Attendence");
+		return isAttendance;
+	}
+	public void setAttendance(boolean isAttendance) {
+		this.isAttendance = isAttendance;
+	}
+
+}

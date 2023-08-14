@@ -1,0 +1,13 @@
+package bImplementation;
+
+public class eUser {
+
+	public static void main(String[] args) {
+
+		 fExtendedLenovo el= new fExtendedLenovo();
+		 el.copy();
+
+		
+	}
+
+}
