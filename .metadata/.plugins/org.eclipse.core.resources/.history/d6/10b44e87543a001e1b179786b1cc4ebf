@@ -1,0 +1,21 @@
+package bInheritance;
+
+public class dAdmin {
+	
+	public void read()
+	{
+		System.out.println("Read Code");
+	}
+	
+	public void write()
+	{
+		System.out.println("Write Code");
+	}
+	
+	//Adding or Deleting the Product/Application
+	public void manage()
+	{
+		System.out.println("Manage Code");
+	}
+
+}

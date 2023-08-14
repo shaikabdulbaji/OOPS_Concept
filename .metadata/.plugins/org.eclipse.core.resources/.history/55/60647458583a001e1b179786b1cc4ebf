@@ -1,0 +1,18 @@
+package cMultiple_Inheritance;
+
+public class dAdmin extends cDeveloper{
+	
+	/*
+	 * public class dAdmin extends cDeveloper,bGuest
+	 * By giving the above line we get the error, if in worst case java will allow then also it was 
+	   applicable why because
+	 */
+	
+	
+	//Adding or Deleting the Product/Application
+	public void manage()
+	{
+		System.out.println("Manage Code");
+	}
+
+}

@@ -1,0 +1,13 @@
+package dSuper_Class;
+
+public class dAdmin extends cDeveloper{
+	
+	
+	
+	//Adding or Deleting the Product/Application
+	public void manage()
+	{
+		System.out.println("Manage Code");
+	}
+
+}

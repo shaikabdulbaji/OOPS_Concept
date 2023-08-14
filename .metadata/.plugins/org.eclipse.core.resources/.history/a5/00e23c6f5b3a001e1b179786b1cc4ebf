@@ -1,0 +1,43 @@
+package dSuper_Class;
+
+public class dAdmin extends cDeveloper{
+	
+	
+	
+	//Adding or Deleting the Product/Application
+	public void manage()
+	{
+		read();
+		write();
+		System.out.println("Manage Code");
+	}
+	
+	public void read()
+	{
+		System.out.println("Admin Read Code");
+	}
+	
+	/*
+	 * We have read() and write() in bGuest and cDeveloper classes.
+	 * we can call that methods directly without creating object, because we extends that classes.
+	 
+	 	public void manage()
+		{
+			read(); // click on read() and press "fn+f3" then it redirect to bGuest class.
+			write(); // click on write() and press "fn+f3" then it redirect to cDeveloper class.
+			System.out.println("Manage Code");
+		}
+	
+	 * For differentiate purpose i creat another read() method in this class
+	  
+	 	public void manage()
+		{
+			read(); // click on read() and press "fn+f3" then it redirect to read() method in that or this own class.
+			write(); 
+			System.out.println("Manage Code");
+		}
+		
+		But i want to call that read method which is in bGuest class then this time we use "super" keyword.
+	 */
+
+}

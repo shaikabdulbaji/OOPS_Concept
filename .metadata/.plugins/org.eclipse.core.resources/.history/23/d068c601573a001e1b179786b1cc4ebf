@@ -1,0 +1,11 @@
+package bInheritance;
+
+public class bGuest {
+	
+	public void read()
+	{
+		System.out.println("Read Code Updated");
+	}
+	
+
+}

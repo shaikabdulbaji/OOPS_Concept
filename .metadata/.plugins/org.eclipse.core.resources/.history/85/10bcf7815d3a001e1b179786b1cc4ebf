@@ -1,0 +1,5 @@
+package cOverComing_Of_Multiple_Inheritance_by_Interface;
+
+public interface dUser {
+
+}

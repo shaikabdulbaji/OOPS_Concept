@@ -1,0 +1,19 @@
+package dSuper_Class;
+
+public class dAdmin extends cDeveloper{
+	
+	
+	
+	//Adding or Deleting the Product/Application
+	public void manage()
+	{
+		read();
+		write();
+		System.out.println("Manage Code");
+	}
+	
+	/*
+	 * We have read() and write() in bGuest and cDeveloper classes.
+	 */
+
+}

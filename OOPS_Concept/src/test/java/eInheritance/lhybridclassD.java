@@ -1,0 +1,5 @@
+package eInheritance;
+
+//	public class lhybridclassD extends lhybridclassB, lhybridclassC{ // Compiler error
+//	
+//	}
